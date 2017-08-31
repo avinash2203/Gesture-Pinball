@@ -18,5 +18,5 @@ void loop() {
   Serial.print(",");
   Serial.print(Value2, DEC);
   Serial.println();
-  delay(100); // For illustration purposes only. This will slow down your program if not removed 
+  
 }
