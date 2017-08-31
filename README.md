@@ -15,4 +15,6 @@ Our interface for the game is quit simple. It's a lite game based o processing t
 It's a game in which there is a retangular movable paddle in the bottom and a ball keeps moving and reflects after colliding the walls.
 So the movable paddle is controlled using the accelerometer.
 
+Avinash Singh
+
 
